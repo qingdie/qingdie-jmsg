@@ -1,0 +1,16 @@
+{
+  "name": "qingdie-jmsg",
+  "version": "1.0.1",
+  "description": " module for jiguang IM",
+  "homepage": "http://qingdie.me",
+  "author": {
+    "name": "qingdie",
+    "email": "xueping@qingdie.net",
+    "url": "https://github.com/qingdie/qingdie-jmsg"
+  },
+  "main": "index.js",
+  "keywords": [
+    ""
+  ],
+  "license": "Apache-2.0"
+}
